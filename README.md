@@ -3,9 +3,17 @@
 Entao criado para injectar na pagina um payload com atualizacoes do sql informado para a invasao...
 
 Primeiro: Abra seu visual studio ( o meu eo visual studio 22)
+
+
 Segundo: Colhe o codigo .js no seu visual studio edite com o nome do seu payload (esta destacado no print)
+
+
 Terceiro: Salve seu Projeto como .js Salvara e ficara igual a do print...
+
+
 Quarto: Abra o SQLDUMPER va na funcao sql injection, clique em exploit escolha o seu payload com diretorio escolhido.
+
+
 Quinto:Chegara um arquivo xml no diretorio escolhido pronto falha criada para conexoes em web sites...
 
 
@@ -18,4 +26,6 @@ Quinto:Chegara um arquivo xml no diretorio escolhido pronto falha criada para co
 <a href="https://ibb.co/d52Cn2L"><img src="https://i.ibb.co/rw68n6c/payload-teste4.png" alt="payload-teste4" border="0"></a>
 
 Conciencia e sabedoria, para os que vem e o que vao...
+
+
 Nao me resposabilizo pelos seus atos !
