@@ -21,7 +21,7 @@ Terceiro: Salve seu Projeto como .js Salvara e ficara igual a do print...
 <a href="https://ibb.co/bNm2DmD"><img src="https://i.ibb.co/SVydGyG/payload-teste3.png" alt="payload-teste3" border="0"></a>
 
 
-Quarto: Abra o SQLDUMPER va na funcao sql injection, configure depois clique em exploit escolha o seu payload com diretorio escolhido,que ira fechar.
+Quarto: Abra o SQLDUMPER va na funcao sql injection, configure depois clique em exploit escolha o seu payload com diretorio escolhido, que ira chegar.
 
 
 <a href="https://ibb.co/xzr1Vq4"><img src="https://i.ibb.co/F8d5G4P/payload-teste5.png" alt="payload-teste5" border="0"></a>
