@@ -1,6 +1,6 @@
 # Payload-SQL-Injection-Com-SQLDUMPER
 
-Entao criado para injectar na pagina um payload com atualizacoes do sql informado para a invasao...
+Entao criado para injectar na pagina um payload com atualizacoes dos drives sql informado para a invasao...
 
 Primeiro: Abra seu visual studio ( o meu eo visual studio 22)
 
